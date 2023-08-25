@@ -1,0 +1,19 @@
+body {
+    background-color: #ddb677;
+    background-image: url(lilac.jpg);
+}
+
+.header {
+    
+    color: rgb(50, 40, 118);
+}
+
+.header h1 {
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.form-group {
+    color: black;
+}
